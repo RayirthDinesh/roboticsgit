@@ -1,4 +1,11 @@
 {
   "name": "voice",
-  "displayName": "voice"
+  "displayName": "voice",
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "93650b3d-1e6e-487a-b461-b74f425771b1"
+      }
+    }
+  }
 }
